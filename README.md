@@ -1,1 +1,2 @@
-![XIU2's GitHub Stats](https://github-readme-stats.vercel.app/api?username=XIU2&show_icons=true&hide=contribs,prs&include_all_commits=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff)
+[![XIU2's GitHub Stats](https://github-readme-stats.vercel.app/api?username=XIU2&show_icons=true&hide=contribs,prs&include_all_commits=true)](https://github.com/XIU2)
+[![XIU2's GitHub Stats](https://github-readme-stats.vercel.app/api?username=XIU2&show_icons=true&hide=contribs,prs&include_all_commits=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff)](https://github.com/XIU2)
